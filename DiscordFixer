@@ -6,7 +6,7 @@
   width: 170px!important;
 }
 
-.guildsWrapper-5TJh6A .guilds-1q_RqH .scrollerWrap-21JEkd{
+.guildsWrapper-5TJh6A .guilds-1q_RqH .scroller-2FKFPG{
   display: flex;
   flex-flow: row wrap;
   padding-left: 0;
